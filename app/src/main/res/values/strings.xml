@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Get Location</string>
+    <string name="get_loc_long">Longitude</string>
+    <string name="get_loc_lat">Latitude</string>
+</resources>
